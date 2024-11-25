@@ -7,7 +7,7 @@ Get New Version__😎✔
      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/MrMasterOfc">
+<a href="https://malaka-md-bot.vercel.app">
     <img src="https://telegra.ph/file/c227d87605ffa07c7871c.png" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
